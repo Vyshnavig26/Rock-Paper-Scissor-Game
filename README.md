@@ -14,10 +14,17 @@ In this game, randint() built-in function is used for generating random integer 
 
 # Algorithm
 1.Display the rules of the game.
+
 2.Accept the user's choice.
+
 3.Validate the input and ensure it is within the allowed options.
+
 4.Generate the computer's choice randomly.
+
 5.Compare both choices and determine the winner.
+
 6.Display the result of the round.
+
 7.Ask the user whether they want to play again.
+
 8.Repeat the game until the user chooses to exit.
