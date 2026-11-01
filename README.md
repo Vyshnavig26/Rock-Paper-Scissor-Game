@@ -3,9 +3,13 @@
 
 # Winning Rules
 Rock defeats Scissors.
+
 Scissors defeats Paper.
+
 Paper defeats Rock.
+
 If both players choose the same option, the round ends in a draw.
+
 In this game, randint() built-in function is used for generating random integer values within the given range.
 
 # Algorithm
